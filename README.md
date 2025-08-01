@@ -41,4 +41,4 @@ A streamlined data analysis application built with Streamlit that follows the CR
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/crisp-dm-app.git
+git clone https://github.com/ihebchh/crisp-dm-app.git
