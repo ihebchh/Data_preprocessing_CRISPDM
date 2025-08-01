@@ -2,7 +2,7 @@
 
 A streamlined data analysis application built with Streamlit that follows the CRISP-DM methodology, allowing users to preprocess, analyze, and visualize datasets with an intuitive interface.
 
-![App Screenshot](capture1.PNG)
+
 
 ## Features ✨
 
